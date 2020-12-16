@@ -1,0 +1,40 @@
+.menu{
+	margin-bottom: 30px;
+}
+
+.app{
+	margin-top: 30px;
+}
+
+.pagina{
+	border: solid 1px #DFDFDF;
+	padding: 30px !important;
+}
+
+.navback{
+	background-color: #6043ab !important;
+}
+
+button{
+	background-color: #6043ab !important;
+}
+
+li.list-group-item.active{
+	background-color: #fff;
+	border-color: #6043ab;
+	border-left: solid 10px #6043ab;
+}
+
+li a{
+	color: #6043ab;
+}
+
+li a:hover{
+	text-decoration: none;
+	color: #2d204f;
+}
+
+h4{
+	color: #6043ab !important;
+}
+
